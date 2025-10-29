@@ -1,6 +1,6 @@
 {
-  "name": "designhammer/starter-wordpress",
-  "description": "Starter theme for WordPress",
+  "name": "siwardean/hybrid_theme-wordpress",
+  "description": "Nutriflow theme for WordPress",
   "config": {
     "allow-plugins": {
       "dealerdirect/phpcodesniffer-composer-installer": true
